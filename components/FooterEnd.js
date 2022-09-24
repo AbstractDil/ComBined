@@ -42,9 +42,7 @@ const FooterEnd = () => {
 
 </div>
 
-<Script>
-  
-</Script>
+
 
 
 
