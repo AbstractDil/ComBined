@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-import Script from 'next/script';
+
 
 import Err404 from '../components/Error404';
 
