@@ -4,7 +4,7 @@ const Materials = () => {
   return (
     <div className='container my-3  p-3 '>
         <div className="row justify-content-center">
-                <div className="col-md-8 col-md-offset-2 table-responsive">
+                <div className="col-md-8 col-md-offset-2 bg-info table-responsive">
                 	<table className="table table-bordered table-hover">
                       <thead>
                           <tr className="bg-dark text-light text-center">
