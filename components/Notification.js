@@ -73,17 +73,16 @@ const  Notification = () => {
 <div className="col-md-12 mb-3 alert alert-info border-1 " >
 <p className="font-weight-bold text-center">
 
-
                   
                   <span className="label label-danger blink">New</span>
                   <span className="titleOne ">FCI Category III ZONE-WISE RECRUITMENT OF NON-EXECUTIVES IN FCI</span><span className="label label-danger blink ">New</span>
                  
                   <br />
                  <br />
-                  <span className="text-danger"><span className='glyphicon glyphicon-hand-right'></span> Application Start  :</span>  06/09/2022 10:00 AM" <br/>
-                <span className='text-danger'><span className='glyphicon glyphicon-hand-right'></span> Application End : </span>   05/10/2022 04:00 PM <br/>
-                <span className='text-danger'><span className='glyphicon glyphicon-hand-right'></span>  Edit Window :  </span>05/10/2022 04:00 PM<br/>
-                <span className='text-danger'><span className='glyphicon glyphicon-hand-right'></span>  Application Fees : </span> Rs. 500/- for General, OBC and EWS candidates and Rs. Nil for SC/ST/PWD/Women candidates <br/>
+     <span className="text-danger"><span className="glyphicon glyphicon-hand-right"></span> Application Start  :</span>  06/09/2022 10:00 AM <br/>
+                <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span> Application End : </span>   05/10/2022 04:00 PM <br/>
+                <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span>  Edit Window :  </span>05/10/2022 04:00 PM<br/>
+                <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span>  Application Fees : </span> Rs. 500/- for General, OBC and EWS candidates and Rs. Nil for SC/ST/PWD/Women candidates <br/>
 
            
                    
