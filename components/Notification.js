@@ -28,7 +28,7 @@ const  Notification = () => {
 
                   
                   <span className="label label-danger blink">New</span>
-                  <span className="titleOne ">SSC CGLE 2022 (Sept.)</span><span className="label label-danger blink ">New</span>
+                  <span className="titleOne ">SSC CGLE 2022 (Sept.)</span> <span className="label label-danger blink ">New</span>
                  
                   <br />
                  <br />
@@ -75,7 +75,7 @@ const  Notification = () => {
 
                   
                   <span className="label label-danger blink">New</span>
-                  <span className="titleOne ">FCI Category III ZONE-WISE RECRUITMENT OF NON-EXECUTIVES IN FCI</span><span className="label label-danger blink ">New</span>
+                  <span className="titleOne ">FCI Category III ZONE-WISE RECRUITMENT OF NON-EXECUTIVES IN FCI</span> <span className="label label-danger blink ">New</span>
                  
                   <br />
                  <br />
@@ -121,7 +121,7 @@ const  Notification = () => {
 
                   
                   <span className="label label-danger blink">New</span>
-                  <span className="titleOne ">SBI RECRUITMENT OF JUNIOR ASSOCIATES 2022</span><span className="label label-danger blink ">New</span>
+                  <span className="titleOne ">SBI RECRUITMENT OF JUNIOR ASSOCIATES 2022</span> <span className="label label-danger blink ">New</span>
                  
                   <br />
                  <br />
