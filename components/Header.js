@@ -10,7 +10,7 @@ const Header = () => {
             <div className="row">
                 <div className="col-md-2 text-center">
                     <Link href="/">
-                	<Image src="/../public/Images/logo2.png" alt="MathHub Combined" height={90} width={90} className=" img-circle logo "/>
+                	<Image src="/Images/logo2.png" alt="MathHub Combined" height={90} width={90} className=" img-circle logo "/>
                   </Link>
                 </div>
                <div className="col-md-8 text-center">
