@@ -27,22 +27,22 @@ const Footer = () => {
 
               <ul>
                 <li> 
-                    <Link href="https://ibps.in" target="_blank">
+                    <Link href="https://ibps.in" >
                       <a>IBPS</a>
                       </Link>
                 </li>
                 <li>
-                    <Link href="https://ibpsonline.ibps.in/sbijascapr21/" target="_blank">
+                    <Link href="https://ibpsonline.ibps.in/sbijascapr21/" >
                     <a>SBI Clerk 2021</a>
                     </Link>
                 </li>
                 <li><a  href="https://www.sbi.co.in/web/careers#lattest"
                     target="_blank "> SBI Career </a></li>
-                <li><a  href="https://bank.sbi/web/careers" target="_blank">Another
+                <li><a  href="https://bank.sbi/web/careers" >Another
                     portal SBI Career </a></li>
-                <li><a  href="https://ssc.nic.in/" target="_blank"> SSC </a></li>
+                <li><a  href="https://ssc.nic.in/" > SSC </a></li>
                 <li><a  href="https://ibpsonline.ibps.in/rrbsx23may21/index.php"
-                    target="_blank"> IBPS-RRB</a></li>
+                    > IBPS-RRB</a></li>
                 <li><a  href="#"> Test & Discussion</a></li>
                 <li><a  href="#"> Fast Track T & D</a></li>
               </ul>
@@ -69,9 +69,9 @@ const Footer = () => {
 
               <ul>
                 <li><a 
-                    href="https://www4.digialm.com/OnlineAssessment/index.html?167@@M152" target="_blank"> IBPS Test</a>
+                    href="https://www4.digialm.com/OnlineAssessment/index.html?167@@M152" > IBPS Test</a>
                 </li>
-                <li><a  href="https://www.ibps.in/online-testing/" target="_blank">
+                <li><a  href="https://www.ibps.in/online-testing/" >
                     Online Mock Test</a></li>
                 <li> <a
                      href="https://www.youtube.com/watch?v=IUIUt6d2u58"
@@ -81,15 +81,15 @@ const Footer = () => {
                     Current Affairs</a></li>
                 <li><a 
                     href="https://play.google.com/store/apps/details?id=vocab.lalrajivsscenglish.com.englishquiz"
-                    target="_blank"> SSC English Quiz</a></li>
+                    > SSC English Quiz</a></li>
                 <li><a 
-                    href="https://play.google.com/store/apps/details?id=com.englishvocabulary" target="_blank"> Vocab
+                    href="https://play.google.com/store/apps/details?id=com.englishvocabulary" > Vocab
                     App</a></li>
                 <li><a 
-                    href="https://play.google.com/store/apps/details?id=com.merriamwebster" target="_blank">
+                    href="https://play.google.com/store/apps/details?id=com.merriamwebster" >
                     Dictionary - Merriam-Webster</a></li>
                 <li><a 
-                    href="https://www.youtube.com/playlist?list=PLhJT4Hx6LtqrWwyWzBVGv7IjbdrOq12NU" target="_blank">
+                    href="https://www.youtube.com/playlist?list=PLhJT4Hx6LtqrWwyWzBVGv7IjbdrOq12NU" >
                     Word Power Made Easy</a></li>
 
               </ul>
@@ -128,7 +128,7 @@ const Footer = () => {
                   <a className='blink'>Study Materials</a>
                   </Link>
                   </li>
-                <li><a  href="https://libgen.is/" target="_blank"> Library Genesis</a>
+                <li><a  href="https://libgen.is/" > Library Genesis</a>
                 </li>
                 
                 
