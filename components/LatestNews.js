@@ -10,7 +10,7 @@ const  LatestNews = () => {
   const [blogs, setBlogs] = useState([]);
     useEffect(() => {
        // console.log("useeffect is running");
-        fetch('/api/noti', {mode: 'no-cors'}).then((a) => {
+        fetch('api/noti', {mode: 'no-cors'}).then((a) => {
          // console.log(a);
             return a.json();
         })

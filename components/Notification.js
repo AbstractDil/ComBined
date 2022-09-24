@@ -37,12 +37,6 @@ const  Notification = () => {
                 <span className='text-danger'><span className='glyphicon glyphicon-hand-right'></span>  Edit Window :  </span> 12.10.2022 to 13.10.2022 (upto 11:00 p.m)<br/>
                 <span className='text-danger'><span className='glyphicon glyphicon-hand-right'></span>  Application Fees : </span>  Rs. 100/- ( No fee for SC/ST/PH/Ex-Servicemen/Women candidates)<br/>
 
-           
-                   
-                   
-                  
-
-
                 </p>
                 <hr className='hr-info' />
                 <div className="text-center">
@@ -62,6 +56,12 @@ const  Notification = () => {
   </div>
               
             {/* cgle 2022 ends    */}
+           
+                   
+                   
+                  
+
+
 
             
                  {/* FCI Category 3 2022   start */}
@@ -83,13 +83,6 @@ const  Notification = () => {
                 <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span> Application End : </span>   05/10/2022 04:00 PM <br/>
                 <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span>  Edit Window :  </span>05/10/2022 04:00 PM<br/>
                 <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span>  Application Fees : </span> Rs. 500/- for General, OBC and EWS candidates and Rs. Nil for SC/ST/PWD/Women candidates <br/>
-
-           
-                   
-                   
-                  
-
-
                 </p>
                 <hr className='hr-info' />
                 <div className="text-center">
@@ -107,8 +100,64 @@ const  Notification = () => {
 
   
   </div>
-              
+
+           
             {/* FCI Category 3 2022 ends    */}
+                   
+                   
+                  
+
+
+              
+
+            {/* SBI Clerk 2022 sept start */}
+
+            <div className=" col-md-12" >
+
+<div className="  mb-3 justify-content-center">
+
+<div className="col-md-12 mb-3 alert alert-info border-1 " >
+<p className="font-weight-bold text-center">
+
+                  
+                  <span className="label label-danger blink">New</span>
+                  <span className="titleOne ">SBI RECRUITMENT OF JUNIOR ASSOCIATES 2022</span><span className="label label-danger blink ">New</span>
+                 
+                  <br />
+                 <br />
+     <span className="text-danger"><span className="glyphicon glyphicon-hand-right"></span> Application Start  :</span>  07/09/2022 <br/>
+                <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span> Application End : </span>   27/09/2022 <br/>
+                <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span>  Edit Window :  </span>27/09/2022<br/>
+                <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span>  Application Fees : </span> Rs. 750/- for General, OBC and EWS candidates and Rs. Nil for SC/ST/PwBD/ESM/DESM <br/>
+                </p>
+                <hr className='hr-info' />
+                <div className="text-center">
+                  
+                <a href=" https://ibpsonline.ibps.in/sbijajul22/" type='button' className='btn btn-warning'><i className='fa fa-pencil-square-o'></i> Apply Now</a>
+                
+                
+                    <a  href="https://www.sbi.co.in/documents/77530/25386736/060922-JA+2022-Detailed+Advt.pdf/3a163d20-b15a-2b83-fe54-1e8dba091220?t=1662465793728" type='button' className='btn btn-down'><i className='fa fa-download'></i> Notification </a>
+                   
+                </div>
+                
+            </div>
+            
+        </div>
+
+  
+  </div>
+
+           
+                   
+                   
+                  
+
+
+
+
+            {/* SBI Clerk 2022 sept ENDS */}
+
+
   
     </div>
   </div>
