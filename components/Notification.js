@@ -46,12 +46,12 @@ const  Notification = () => {
                 </p>
                 <hr className='hr-info' />
                 <div className="text-center">
-                  <Link href=" https://ssc.nic.in/CandidatePortal/CandidatePortal" >
-                <a type='button' className='btn btn-warning'><i className='fa fa-pencil-square-o'></i> Apply Now</a>
-                </Link>
-                <Link href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/notice_CGLE_17092022.pdf">
-                    <a type='button' className='btn btn-down'><i className='fa fa-download'></i> Notification </a>
-                    </Link> 
+                 
+                <a href=" https://ssc.nic.in/CandidatePortal/CandidatePortal"  type='button' className='btn btn-warning'><i className='fa fa-pencil-square-o'></i> Apply Now</a>
+            
+                
+                    <a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/notice_CGLE_17092022.pdf" type='button' className='btn btn-down'><i className='fa fa-download'></i> Notification </a>
+                    
                 </div>
                 
             </div>
@@ -94,12 +94,12 @@ const  Notification = () => {
                 </p>
                 <hr className='hr-info' />
                 <div className="text-center">
-                  <Link href=" https://ibpsonline.ibps.in/fcineaug22/index.php" >
-                <a type='button' className='btn btn-warning'><i className='fa fa-pencil-square-o'></i> Apply Now</a>
-                </Link>
-                <Link href="https://www.careerpower.in/2022/fci-ag3-notification.pdf">
-                    <a type='button' className='btn btn-down'><i className='fa fa-download'></i> Notification </a>
-                    </Link> 
+                  
+                <a href=" https://ibpsonline.ibps.in/fcineaug22/index.php" type='button' className='btn btn-warning'><i className='fa fa-pencil-square-o'></i> Apply Now</a>
+                
+                
+                    <a  href="https://www.careerpower.in/2022/fci-ag3-notification.pdf" type='button' className='btn btn-down'><i className='fa fa-download'></i> Notification </a>
+                   
                 </div>
                 
             </div>
