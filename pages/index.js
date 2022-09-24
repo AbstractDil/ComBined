@@ -7,7 +7,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import FooterEnd from '../components/FooterEnd';
 import LatestNews from '../components/LatestNews';
-
+import Notification from '../components/Notification';
 
 export default function Home() {
   return (
@@ -26,9 +26,9 @@ export default function Home() {
       <Header/>
       <Title/>
      
-      <LatestNews/>     
+      {/* <LatestNews/>      */}
       
-      
+      <Notification/>
       <Footer/>
       <FooterEnd/>
       

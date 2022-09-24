@@ -5,9 +5,6 @@ import Link from  'next/link';
 
 
 
-
-
-
 const  LatestNews = () => {
 
   const [blogs, setBlogs] = useState([]);
