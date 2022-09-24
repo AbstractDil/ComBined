@@ -20,7 +20,7 @@ const Header = () => {
                 </div>
                 <div className="col-md-2 mt-3 text-right">
                   <Link href="/auth/e-contents">
-                <a className='btn btn-warning '><i className='fa fa-mortar-board'></i> Student's Corner</a>
+                <a className="btn btn-warning"><i className="fa fa-mortar-board"></i> Student's Corner</a>
                 </Link>
                 </div>
             </div>

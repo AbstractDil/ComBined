@@ -10,11 +10,11 @@ const Navbar = () => {
 <div className="topnav" >
 
   <p className=' text-center topnav-title'>
-<Image src="/../public/Images/bulb.gif"  width={28} height={25} />
+<Image src="/../public/Images/bulb.gif" alt="New" width={28} height={25} />
 
     Latest News
 
-<Image src="/../public/Images/bulb.gif"  width={28} height={25} />
+<Image src="/../public/Images/bulb.gif" alt="New" width={28} height={25} />
 
     </p>
   
