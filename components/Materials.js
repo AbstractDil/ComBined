@@ -2,7 +2,7 @@ import React from 'react'
 
 const Materials = () => {
   return (
-    <div className='container my-3 bg-info p-3 border-1'>
+    <div className='container my-3  p-3 '>
         <div className="row justify-content-center">
                 <div className="col-md-8 col-md-offset-2 table-responsive">
                 	<table className="table table-bordered table-hover">
