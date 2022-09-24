@@ -13,7 +13,7 @@ const  LatestNews = () => {
   const [blogs, setBlogs] = useState([]);
     useEffect(() => {
        // console.log("useeffect is running");
-        fetch('http://localhost:3000/api/noti').then((a) => {
+        fetch('https://mathhubcombined.netlify.app/api/noti').then((a) => {
          // console.log(a);
             return a.json();
         })
