@@ -31,7 +31,7 @@ const  LatestNews = () => {
     <div className="row">
     {blogs.map((blogitem) => {
      // console.log(blogitem.Fees);
-                return <div key={blogitem.id}>
+                return <div  key={blogitem.id}>
 
                     <div className=" col-md-12" >
 
