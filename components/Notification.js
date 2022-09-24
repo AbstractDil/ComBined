@@ -5,7 +5,7 @@ import Link from  'next/link';
 
 
 
-const  LatestNews = () => {
+const  Notification = () => {
 
   
 
@@ -117,4 +117,4 @@ const  LatestNews = () => {
   )
 }
 
-export default LatestNews
+export default Notification

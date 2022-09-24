@@ -6,7 +6,7 @@ import Title from '../components/Title';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import FooterEnd from '../components/FooterEnd';
-import LatestNews from '../components/LatestNews';
+// import LatestNews from '../components/LatestNews';
 import Notification from '../components/Notification';
 
 export default function Home() {
