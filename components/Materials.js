@@ -8,7 +8,7 @@ const Materials = () => {
                 	<table className="table table-bordered table-hover">
                       <thead>
                           <tr className="bg-dark text-light text-center">
-                            <td colspan="3" className="text-center titleOne"><i className="fa fa-graduation-cap"></i> Study Materials</td>
+                            <td colspan="3" className="text-center titleOne"><i className="fa fa-book"></i> Pdf Books</td>
                           </tr>
                           <tr className=" bg-primary font-weight-bold text-white text-center">
                             
