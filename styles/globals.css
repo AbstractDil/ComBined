@@ -138,6 +138,7 @@ a:hover{
   border: none !important;
  
  
+ 
 }
 
 .titleOne{
@@ -543,6 +544,7 @@ font-size: 17px;
 .topnav {
   overflow: hidden;
     background-image: linear-gradient(-90deg,rgb(100, 6, 61), rgb(77, 2, 128));
+    box-shadow: 0 0 15px rgb(255, 255, 255) !important;
 
 }
 .topnav-title{
