@@ -548,8 +548,9 @@ font-size: 17px;
 
 }
 .border-2{
-  color: red;
+  border: 2px solid #dd0505;
 }
+
 .topnav-title{
   font-size: 25px ;
   font-weight:bolder; 
