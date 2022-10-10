@@ -16,6 +16,44 @@ const  Notification = () => {
 
     <div className="row">
 
+    <div className=" col-md-12" >
+
+<div className="  mb-3 justify-content-center">
+
+<div className="col-md-12 mb-3 alert alert-danger border-2 " >
+<p className="font-weight-bold text-center">
+
+                  
+                  <span className="label label-danger blink">New</span>
+                  <span className="titleOne ">IMPORTANT NOTE</span> <span className="label label-danger blink ">New</span>
+                 
+                  <br />
+                 <br />
+     <span className="text-danger"><span className="glyphicon glyphicon-hand-right"></span>  Visit 
+     our New Web Portal <a href="https://mathhubcombined.com" target="_blank" className="text-danger">MATHHUB COMBINED</a> for more updates and latest news. 
+     </span>   <br/>
+
+     <span className="text-danger"><span className="glyphicon glyphicon-hand-right"></span>  Here you can find all free study materials for your preparation. Click on the link above link to access free study materials.
+     </span>  <br/>
+               
+                </p>
+                <hr className='hr-info' />
+                <div className="text-center">
+                  
+                <a href="https://projects.nandysagar.in/combined" type='button' className='btn btn-warning'><i className='fa fa-pencil-square-o'></i> New Web Portal</a>
+                
+                
+                    
+                   
+                </div>
+                
+            </div>
+            
+        </div>
+
+  
+  </div>
+
 
 
       
@@ -124,8 +162,9 @@ const  Notification = () => {
 <p className="font-weight-bold text-center">
 
                   
-                  <span className="label label-danger blink">New</span>
-                  <span className="titleOne ">FCI Category III ZONE-WISE RECRUITMENT OF NON-EXECUTIVES IN FCI</span> <span className="label label-danger blink ">New</span>
+                  {/* <span className="label label-danger blink">New</span> */}
+                  <span className="titleOne ">FCI Category III ZONE-WISE RECRUITMENT OF NON-EXECUTIVES IN FCI</span>
+                   {/* <span className="label label-danger blink ">New</span> */}
                  
                   <br />
                  <br />
@@ -170,8 +209,9 @@ const  Notification = () => {
 <p className="font-weight-bold text-center">
 
                   
-                  <span className="label label-danger blink">New</span>
-                  <span className="titleOne ">SBI RECRUITMENT OF JUNIOR ASSOCIATES 2022</span> <span className="label label-danger blink ">New</span>
+                  {/* <span className="label label-danger blink">New</span> */}
+                  <span className="titleOne ">SBI RECRUITMENT OF JUNIOR ASSOCIATES 2022</span> 
+                  {/* <span className="label label-danger blink ">New</span> */}
                  
                   <br />
                  <br />

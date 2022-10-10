@@ -547,6 +547,9 @@ font-size: 17px;
     box-shadow: 0 0 15px rgb(255, 255, 255) !important;
 
 }
+.border-2{
+  color: red;
+}
 .topnav-title{
   font-size: 25px ;
   font-weight:bolder; 
