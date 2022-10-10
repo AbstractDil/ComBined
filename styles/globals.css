@@ -551,6 +551,9 @@ font-size: 17px;
   border: 2px solid #dd0505;
 }
 
+.text-danger{
+  color: #dd0505 !important;
+}
 .topnav-title{
   font-size: 25px ;
   font-weight:bolder; 
