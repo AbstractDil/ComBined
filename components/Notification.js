@@ -30,7 +30,7 @@ const  Notification = () => {
                   <br />
                  <br />
      <span className="text-danger"><span className="glyphicon glyphicon-hand-right"></span>  Visit 
-     our New Web Portal <a href="https://mathhubcombined.com" target="_blank" className="text-danger">MATHHUB COMBINED</a> for more updates and latest news. 
+     our New Web Portal <a href="https://mathhubcombined.com"  className="text-danger">MATHHUB COMBINED</a> for more updates and latest news. 
      </span>   <br/>
 
      <span className="text-danger"><span className="glyphicon glyphicon-hand-right"></span>  Here you can find all free study materials for your preparation. Click on the link above link to access free study materials.
