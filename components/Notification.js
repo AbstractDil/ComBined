@@ -40,7 +40,7 @@ const  Notification = () => {
                 <hr className='hr-info' />
                 <div className="text-center">
                   
-                <a href="https://projects.nandysagar.in/combined" type='button' className='btn btn-warning'><i className='fa fa-pencil-square-o'></i> New Web Portal</a>
+                <a href="https://projects.nandysagar.in/combined" type='button' className='btn btn-warning'><i className='fa fa-external-link'></i> New Web Portal</a>
                 
                 
                     
