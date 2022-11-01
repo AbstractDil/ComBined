@@ -1,13 +1,16 @@
+
 import Head from 'next/head';
 
 import Script from 'next/script';
 
-import Title from '../components/Title';
-import Header from '../components/Header';
-import Footer from '../components/Footer';
-import FooterEnd from '../components/FooterEnd';
-
+import Title from '../../components/Title';
+import Header from '../../components/Header';
+import Footer from '../../components/Footer';
+import FooterEnd from '../../components/FooterEnd';
+// import Materials from '../../components/Materials';
 import Link from  'next/link';
+
+
 
 
 export const getStaticProps = async () => {
@@ -66,7 +69,6 @@ return (
                 <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span> Application End : </span>   {item.end_date}<br/>
                 <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span>  Edit Window :  </span>{item.edit_date}<br/>
                 <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span>  Application Fees : </span> {item.fees}<br/>
-                <span className='text-danger'><span className="glyphicon glyphicon-hand-right"></span> </span> {item.other}<br/>
                 </p>
                 <hr className='hr-info' />
                 <div className="text-center">

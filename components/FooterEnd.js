@@ -32,7 +32,7 @@ const FooterEnd = () => {
 
       <div className="design">
 
-        <a href="https://nandysagar.in/combined"> Designed & Developed by Sagar Nandy </a>
+        <a href="https://nandysagar.in/"> Designed & Developed by Sagar Nandy </a>
 
       </div>
 
